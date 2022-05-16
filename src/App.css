@@ -1,0 +1,23 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.shopName{
+    color: chartreuse;
+}
+
+.price{
+    padding: 10px 10px;
+}
+
+.link{
+   text-decoration: none;
+   color: black;
+}
+
+
